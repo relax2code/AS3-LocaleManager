@@ -1,3 +1,6 @@
+# Add load assets method from external path for regular swf (non-Air) 
+  still in progrees..
+
 # AS3-LocaleManager 
 
 The AS3-LocaleManager provides basic localization support for ActionScript apps. It takes care of loading/parsing resource bundle files (*.txt) and returns localized resources based on the precedence of the locales set in localeChain.
